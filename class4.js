@@ -3,7 +3,7 @@ function sandwichcalculator(bread,cheese){
     if(sandwich=bread/2 && cheese>1){
         return sandwich;
 
-    }
+    }hfhhfa
     else{
         return cheese;
     };
