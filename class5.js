@@ -8,7 +8,7 @@ function my_avg(...val){
         if(val[i]>max){
             max = val[i];
         }
-    }
+    }hdhhdh
 let avrge = (sum/(val.length)).toFixed(2);
 return [max,avrge];
 
